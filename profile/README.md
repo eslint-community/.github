@@ -8,9 +8,9 @@ of maintenance.
 
 The Community Core team (which currently consists of
 [`@aladdin-add`](https://github.com/aladdin-add),
-[`@ota-meshi`](https://github.com/ota-meshi),
-[`@voxpelli`](https://github.com/voxpelli) and
-[`@MichaelDeBoey`](https://github.com/MichaelDeBoey)) and all package
+[`@MichaelDeBoey`](https://github.com/MichaelDeBoey),
+[`@ota-meshi`](https://github.com/ota-meshi) and
+[`@voxpelli`](https://github.com/voxpelli)) and all package
 maintainers will make sure these packages stay up-to-date with newer ESLint
 releases, and that they don't hold the wider community back by relying on any single one
 person's GitHub or npm account.
