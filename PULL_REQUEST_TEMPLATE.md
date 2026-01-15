@@ -4,10 +4,6 @@
     ESLint adheres to the [OpenJS Foundation Code of Conduct](https://eslint.org/conduct).
 -->
 
-#### Prerequisites checklist
-
-- [ ] I have read the [contributing guidelines](https://github.com/eslint/.github/blob/master/CONTRIBUTING.md).
-
 <!--
     Please ensure your pull request is ready:
 
