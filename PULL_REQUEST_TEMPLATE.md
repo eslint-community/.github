@@ -1,7 +1,7 @@
 <!--
     Thank you for contributing!
 
-    ESLint adheres to the [OpenJS Foundation Code of Conduct](https://eslint.org/conduct).
+    ESLint adheres to the [Open JS Foundation Code of Conduct](https://eslint.org/conduct).
 -->
 
 <!--
